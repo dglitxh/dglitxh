@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dglitxh
-- 👀 I’m interested in artificial intelligence and cybersecurity
+- 👀 I’m interested in artificial intelligence and web development
 - 🌱 I’m currently learning Deep learning and Python
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me ...
