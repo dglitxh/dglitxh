@@ -1,5 +1,5 @@
 - 👋 Hi, I’m YD
-- 👀 I’m interested in artificial intelligence, cybersecurity and web development
+- 👀 I’m interested in artificial intelligence, web development
 - 🌱 I’m currently learning Javascript/Typescript, and Python
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me ...
