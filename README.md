@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yaw Deezy
 - 👀 I’m interested in artificial intelligence and web development
-- 🌱 I’m currently learning Javascript/Typescript, Go and Python
-- 💞️ I’m looking to collaborate on open source
+- 🌱 I currently use Javascript/Typescript, Go and Python
+- 💞️ I’m looking to collaborate on open source python, js & go projects
 - 📫 How to reach me ...
 
 <!---
