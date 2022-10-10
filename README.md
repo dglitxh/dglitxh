@@ -2,7 +2,6 @@
 - 👀 I’m interested in artificial intelligence and web development
 - 🌱 I currently use Javascript/Typescript, Go and Python
 - 💞️ I’m looking to collaborate on open source python, js & go projects
-- 📫 How to reach me ...
 
 <!---
 dglitxh/dglitxh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
