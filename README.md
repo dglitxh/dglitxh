@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yaw Deezy
 - 👀 I’m interested in artificial intelligence and web development
 - 🌱 I currently use Javascript/Typescript, Go and Python
-- 💞️ I’m looking to collaborate on open source python, js & go projects
+- 💞️ I’m looking to collaborate on open source python, js & golang projects
 
 <!---
 dglitxh/dglitxh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
