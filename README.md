@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yaw Deezy
-- 👀 I’m interested in artificial intelligence and web development
+- 👀 I’m interested in artificial intelligence and fullstack web development
 - 🌱 I currently use Javascript/Typescript, Go and Python
 
 <!---
