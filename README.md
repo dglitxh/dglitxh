@@ -1,7 +1,3 @@
-- 👋 Hi, I’m Yaw Deezy
-- 👀 I’m interested in artificial intelligence and fullstack web development
-- 🌱 I currently use Javascript/Typescript, Go and Python
-
 <!---
 dglitxh/dglitxh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
