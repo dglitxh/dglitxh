@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<a href="http://www.github.com/dglitxh"><img src="https://activity-graph.herokuapp.com/graph?username=dglitxh&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
